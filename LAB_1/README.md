@@ -7,7 +7,7 @@
 
 # Department of Electrical and Computer Engineering (ECE) - RUET<br> 20 Series.
 
-## Name: Tasnim Islam Bushra
+## Name:Tasnim Islam Bushra
 ### Roll:2010024
 
 
